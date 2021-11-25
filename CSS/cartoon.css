@@ -1,0 +1,12 @@
+body{
+  background-color: lightgoldenrodyellow;
+}
+h1{
+  font-size: 30px; color: green;
+}
+h2{
+  font-size: 10px; color: red;
+}
+span{
+  color: teal; font-size: 100px;
+}
