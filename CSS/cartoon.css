@@ -1,9 +1,15 @@
 body{
-  background-color: lightgoldenrodyellow;
+  background-color: black;
 }
 h1{
-  color: darkolivegreen; font-family: monaco, Consolas, "Lucida Console", monospace; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+  color: white; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+}
+h2{
+  color: white; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+}
+p{
+    color: white;
 }
 span{
-  color: green; font-family: monaco, Consolas, "Lucida Console", monospace; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+  
 }
