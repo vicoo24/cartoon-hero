@@ -1,12 +1,49 @@
 body{
   background-color: black;
+  margin: 0;
+  font-family: 'Helvetica', 'Arial', sans-serif;
 }
+
+header img{
+  border-radius: 175px;
+  width: 55%;
+  border: 10px
+  solid darkgray;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%
+}
+
+main{
+  max-width: 100%;
+  padding: 0 10px 0 10px;
+  line-height: 24px
+}
+
 h1{
-  color: white; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+  color: white;
+  font-size: 35px;
+  text-align: center;
 }
+
 h2{
-  color: white; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
 }
+
 p{
-    color: white;
+  color: white;
+  text-align: center;
   }
+
+footer{
+  background-color: #ff8080;
+  text-shadow: 2px 2px 3px #FFF;
+  padding: 30px;
+}
+
+footer p{
+  margin: 0;
+  color: black;
+}
